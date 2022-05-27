@@ -1,0 +1,45 @@
+.container{
+    border:5px;
+    justify-content:center;
+    align-content: center;
+}
+
+
+.col{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    border:10px;
+    border: white solid;
+    justify-content:center;
+    align-content: center;
+}
+
+.row{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    border: 5px;
+    justify-content: center;
+    align-content: center;
+}
+
+
+img{
+    width: flex;
+    height: flex;
+    border:10px;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.imagmater{
+    width:50%;
+    height: 80px;
+    border:10px;
+    justify-content:center;
+    align-content: center;
+}
